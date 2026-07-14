@@ -1,60 +1,147 @@
 # Project Documentation
 
-This folder contains the complete documentation for the **AI-Enabled Student Admission System**, developed using Salesforce Developer Edition.
+This folder contains the complete project documentation for the **AI-Enabled Student Admission System**, developed using **Salesforce Developer Edition**.
 
 ## Project Overview
 
-The AI-Enabled Student Admission System is a Salesforce-based intelligent admission management solution designed to automate and improve student admission processing.
+The **AI-Enabled Student Admission System** is a Salesforce-based solution designed to streamline and improve student admission management through centralized data management, workflow automation, AI-assisted guidance, reporting, dashboards, and role-based access control.
 
-The system uses Salesforce automation and AI capabilities to:
+The system helps manage student information, courses, enrolments, admission-related processes, and communication within a unified Salesforce environment.
 
-- Manage student admission applications
-- Evaluate application completeness
-- Check academic eligibility
-- Track document verification
-- Generate AI-powered admission guidance
-- Send automated application status notifications
-- Capture feedback on AI-generated guidance
-- Provide admission reports and dashboards
-- Implement role-based access control
+## Documentation File
 
-## Technologies Used
+The complete project report is available in this folder:
+
+`AI_Enabled_Student_Admission_System_Project_Report.pdf`
+
+## Documentation Contents
+
+The project documentation covers:
+
+- User Story
+- Introduction
+- Project Overview
+- Purpose and Scope
+- Ideation Phase
+- Problem Statement
+- Empathy Mapping
+- Stakeholder Mapping
+- Brainstorming
+- Customer Journey Mapping
+- Requirement Analysis
+- Functional Requirements
+- Non-Functional Requirements
+- Data Flow
+- Technology Stack
+- Project Design
+- Problem–Solution Fit
+- Proposed Solution
+- Solution Architecture
+- Project Planning and Scheduling
+- Product Backlog
+- Sprint Planning
+- Salesforce Developer Org Setup
+- Lightning App Creation
+- Custom Object Creation
+- Custom Tabs
+- Fields and Relationships
+- Validation Rules
+- Approval Processes
+- Email Templates
+- Flow Automation
+- Agentforce Integration
+- Prompt Builder
+- Reports and Dashboards
+- Security and Access Control
+- Functional Testing
+- Performance Testing
+- Maintenance and Troubleshooting
+- Advantages and Disadvantages
+- Conclusion
+- Future Scope
+
+## Key Salesforce Components
+
+The project demonstrates the use of:
 
 - Salesforce Developer Edition
-- Salesforce Flow Builder
+- Salesforce Lightning Experience
+- Custom Objects and Fields
+- Validation Rules
+- Approval Processes
+- Flow Builder
+- Email Templates and Alerts
 - Agentforce
 - Prompt Builder
-- Reports & Dashboards
-- Validation Rules
-- Email Alerts
-- Profiles & Permission Sets
+- Reports and Dashboards
+- Profiles and Roles
+- Permission Sets
+- Field-Level Security
 
-## Documentation
+## Project Objectives
 
-The complete project report available in this folder covers:
+The main objectives of the project are to:
 
-1. User Story
-2. Introduction
-3. Ideation Phase
-4. Requirement Analysis
-5. Project Design
-6. Project Planning & Scheduling
-7. Project Development Milestones
-8. Agentforce AI Implementation
-9. Reports & Dashboards
-10. Security & Access Control
-11. Functional & Performance Testing
-12. Maintenance & Troubleshooting
-13. Advantages & Disadvantages
-14. Conclusion
-15. Future Scope
-16. Appendix
+- Centralize student admission information.
+- Reduce manual admission processing.
+- Automate repetitive administrative tasks.
+- Improve data accuracy through validation rules.
+- Support admission workflows using Salesforce automation.
+- Provide AI-assisted guidance using Agentforce.
+- Improve visibility through reports and dashboards.
+- Implement secure role-based access to admission data.
 
-The report also includes screenshots of the actual Salesforce implementation, configuration, automation flows, Agentforce AI assistant, reports, dashboards, and security setup.
+## Project Workflow
+
+1. Student information is created and managed in Salesforce.
+2. Course information is maintained in the system.
+3. Student enrolment records are created and tracked.
+4. Validation rules ensure data accuracy.
+5. Salesforce automation processes admission-related workflows.
+6. Approval processes support controlled review where required.
+7. Email templates and alerts automate communication.
+8. Agentforce provides AI-assisted admission guidance.
+9. Reports and dashboards provide operational insights.
+10. Profiles, roles, and permission sets control system access.
+
+## Purpose of This Folder
+
+This folder serves as the central location for the project's formal documentation.
+
+The project report provides detailed information about the project's:
+
+- Problem definition
+- Requirements
+- Design
+- Architecture
+- Salesforce configuration
+- Implementation
+- Automation
+- AI integration
+- Testing
+- Security
+- Results
+- Future enhancements
 
 ## Author
 
 **Annamneedi Satyanarayana**
 
-Individual Project  
-Salesforce Developer Program
+B.Tech – Computer Science & Engineering  
+Bonam Venkata Chalamayya Engineering College
+
+**Email:** siddunaidu592@gmail.com
+
+**GitHub:** `satya-1114`
+
+**LinkedIn:** `annamneedi-s14`
+
+## Project Type
+
+**Individual Project**
+
+## License
+
+This project was developed for **educational and learning purposes** using Salesforce Developer Edition.
+
+The documentation demonstrates Salesforce configuration, automation, AI integration, admission management, reporting, security, and related platform concepts.
