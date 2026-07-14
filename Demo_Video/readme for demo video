@@ -1,1 +1,211 @@
+# Project Demo Video
 
+This folder contains the complete project demonstration video for the **AI-Enabled Student Admission System**, developed using **Salesforce Developer Edition**.
+
+## Demo Video
+
+**File:** `AI_Enabled_Student_Admission_System_Demo.mp4`
+
+The video provides a complete walkthrough of the project, including the project idea, problem statement, Salesforce implementation, automation, AI capabilities, reporting, security, and overall system workflow.
+
+## About the Project
+
+The **AI-Enabled Student Admission System** is a Salesforce-based solution designed to improve and streamline student admission and enrolment management.
+
+The system centralizes student, course, and enrolment information while using Salesforce automation and AI capabilities to reduce manual work, improve data accuracy, support admission-related decisions, and provide useful operational insights.
+
+## Video Walkthrough
+
+The project demonstration covers the following areas:
+
+### 1. Project Introduction
+
+- Introduction to the AI-Enabled Student Admission System
+- Problem addressed by the project
+- Project objectives
+- Proposed solution
+- Benefits of using Salesforce for admission management
+
+### 2. Salesforce Environment
+
+- Salesforce Developer Edition
+- Salesforce Lightning Experience
+- Project setup and configuration
+- Custom application environment
+
+### 3. Data Model
+
+The video explains the major objects used in the project, including:
+
+- Student
+- Course
+- Student Enrolment
+
+It also demonstrates the fields and relationships used to organize and manage admission-related data.
+
+### 4. Student and Course Management
+
+The demonstration explains how the system manages:
+
+- Student information
+- Course information
+- Student enrolment records
+- Admission-related details
+- Enrolment status
+
+### 5. Validation Rules
+
+The video demonstrates how Salesforce Validation Rules are used to:
+
+- Improve data accuracy
+- Prevent invalid data entry
+- Enforce business requirements
+- Validate admission and enrolment information
+
+### 6. Approval Process
+
+The project demonstration explains the approval workflow used to manage enrolment-related approval scenarios.
+
+The approval process includes:
+
+- Approval criteria
+- Submission for approval
+- Manager review
+- Approval or rejection
+- Automated status updates
+- Email notifications
+
+### 7. Salesforce Flow Automation
+
+The video demonstrates the use of Salesforce Flow Builder to automate admission and enrolment-related processes.
+
+The automation helps:
+
+- Reduce repetitive manual work
+- Process enrolment information
+- Update records automatically
+- Support admission workflows
+- Improve operational efficiency
+
+### 8. Email Notifications
+
+The project includes automated communication using:
+
+- Email Templates
+- Email Alerts
+- Salesforce Automation
+
+These features help provide timely updates during admission and enrolment processes.
+
+### 9. Agentforce AI Integration
+
+The video explains the integration of **Salesforce Agentforce** into the project.
+
+The AI assistant helps support admission-related activities by:
+
+- Analyzing available student information
+- Supporting admission and enrolment queries
+- Providing AI-assisted guidance
+- Generating useful recommendations
+- Improving user productivity
+
+AI-generated recommendations are intended to assist users, while important decisions remain under human review.
+
+### 10. Prompt Builder
+
+The demonstration explains how Salesforce Prompt Builder is used to support AI-powered functionality.
+
+Prompt templates help generate structured and context-aware AI responses based on project data.
+
+### 11. Reports and Dashboards
+
+The video demonstrates the reporting and analytics capabilities of the system.
+
+Reports and dashboards help provide insights into:
+
+- Student records
+- Course information
+- Enrolment data
+- Admission-related activities
+- Operational performance
+
+### 12. Security and Access Control
+
+The project implements Salesforce security features such as:
+
+- Profiles
+- Roles
+- Permission Sets
+- Object-Level Security
+- Field-Level Security
+
+These features help ensure that users can access only the information and functionality required for their responsibilities.
+
+### 13. Testing
+
+The video also explains the testing performed on the system, including:
+
+- Functional testing
+- Validation rule testing
+- Automation testing
+- Approval workflow testing
+- Agentforce testing
+- Security testing
+
+### 14. Project Conclusion
+
+The final section of the video summarizes:
+
+- Project outcomes
+- Benefits of the implemented system
+- Salesforce capabilities used
+- AI integration
+- Automation benefits
+- Future enhancement possibilities
+
+## Technologies Demonstrated
+
+- Salesforce Developer Edition
+- Salesforce Lightning Experience
+- Custom Objects and Fields
+- Validation Rules
+- Approval Processes
+- Flow Builder
+- Email Templates
+- Email Alerts
+- Agentforce
+- Prompt Builder
+- Reports and Dashboards
+- Profiles
+- Roles
+- Permission Sets
+- Field-Level Security
+
+## Purpose of the Video
+
+The purpose of this video is to provide a complete visual demonstration and explanation of the **AI-Enabled Student Admission System**.
+
+The video complements the project documentation by presenting the project's functionality, Salesforce configuration, automation, AI capabilities, security, and overall workflow in a clear and structured manner.
+
+## Author
+
+**Annamneedi Satyanarayana**
+
+B.Tech – Computer Science & Engineering  
+Bonam Venkata Chalamayya Engineering College
+
+**Email:** siddunaidu592@gmail.com
+
+**GitHub:** `satya-1114`
+
+**LinkedIn:** `annamneedi-s14`
+
+## Project Type
+
+**Individual Project**
+
+## Note
+
+This project was developed for educational and learning purposes using Salesforce Developer Edition.
+
+The demo video provides an overview of the project's design, implementation, Salesforce features, automation, AI integration, reporting, security, and overall functionality.
