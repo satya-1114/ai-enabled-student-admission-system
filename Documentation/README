@@ -1,1 +1,60 @@
+# Project Documentation
 
+This folder contains the complete documentation for the **AI-Enabled Student Admission System**, developed using Salesforce Developer Edition.
+
+## Project Overview
+
+The AI-Enabled Student Admission System is a Salesforce-based intelligent admission management solution designed to automate and improve student admission processing.
+
+The system uses Salesforce automation and AI capabilities to:
+
+- Manage student admission applications
+- Evaluate application completeness
+- Check academic eligibility
+- Track document verification
+- Generate AI-powered admission guidance
+- Send automated application status notifications
+- Capture feedback on AI-generated guidance
+- Provide admission reports and dashboards
+- Implement role-based access control
+
+## Technologies Used
+
+- Salesforce Developer Edition
+- Salesforce Flow Builder
+- Agentforce
+- Prompt Builder
+- Reports & Dashboards
+- Validation Rules
+- Email Alerts
+- Profiles & Permission Sets
+
+## Documentation
+
+The complete project report available in this folder covers:
+
+1. User Story
+2. Introduction
+3. Ideation Phase
+4. Requirement Analysis
+5. Project Design
+6. Project Planning & Scheduling
+7. Project Development Milestones
+8. Agentforce AI Implementation
+9. Reports & Dashboards
+10. Security & Access Control
+11. Functional & Performance Testing
+12. Maintenance & Troubleshooting
+13. Advantages & Disadvantages
+14. Conclusion
+15. Future Scope
+16. Appendix
+
+The report also includes screenshots of the actual Salesforce implementation, configuration, automation flows, Agentforce AI assistant, reports, dashboards, and security setup.
+
+## Author
+
+**Annamneedi Satyanarayana**
+
+Individual Project  
+Salesforce Developer Program
