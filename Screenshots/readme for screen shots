@@ -1,1 +1,89 @@
+# Project Screenshots
 
+This folder contains screenshots related to the **AI-Enabled Student Admission System**, a Salesforce-based intelligent admission management solution.
+
+The screenshots demonstrate the Salesforce application structure, custom objects, automation, Agentforce AI configuration, reports, dashboards, and security setup used in the project.
+
+## Screenshots Included
+
+### 1. Salesforce Setup Home
+
+Shows the Salesforce Setup interface used to configure the project environment.
+
+### 2. Student Admission Lightning App
+
+Displays the custom **AI-Enabled Student Admission System** Lightning application and its admission management navigation.
+
+### 3. Program Object Manager
+
+Shows the custom Program object used to manage academic programs, departments, eligibility criteria, and admission capacity.
+
+### 4. Document Verification Object
+
+Displays the custom Document Verification object used to track applicant document verification and verification status.
+
+### 5. AI Feedback Object
+
+Shows the AI Feedback object used to capture admission officer feedback on AI-generated admission guidance.
+
+### 6. Admission Application Record
+
+Displays a sample admission application containing applicant information, academic percentage, application status, completeness, missing documents, and AI Admission Guidance.
+
+### 7. Academic Percentage Validation Rule
+
+Shows the validation rule used to prevent an admission application from being submitted without the applicant's academic percentage.
+
+### 8. Admission Application Evaluation Flow
+
+Displays the Salesforce record-triggered flow designed to evaluate application completeness, program eligibility, and document status.
+
+### 9. Admission Status Email Template
+
+Shows the email template used to notify applicants when their admission application status changes.
+
+### 10. Agentforce AI Admission Assistant
+
+Displays the Agentforce-based Student Admission Assistant used to generate AI-assisted admission guidance.
+
+### 11. Admission Reports Folder
+
+Shows the admission reports created for application status, program demand, and application review performance.
+
+### 12. Admission Management Dashboard
+
+Displays the dashboard used to monitor application status, applications by program, and admission review performance.
+
+### 13. Admission Officer Profile
+
+Shows the Salesforce profile configuration for the Admission Officer role.
+
+### 14. Admission Manager Profile
+
+Displays the Salesforce profile configuration for the Admission Manager role.
+
+### 15. Permission Sets
+
+Shows the **AI Admission Feature Access** and **Admission Report Access** permission sets used to provide feature-specific access.
+
+## Screenshot List
+
+```text
+Screenshots
+│
+├── Salesforce_Setup_Home.png
+├── Student_Admission_Lightning_App.png
+├── Program_Object_Manager.png
+├── Document_Verification_Object.png
+├── AI_Feedback_Object.png
+├── Admission_Application_Record.png
+├── Academic_Percentage_Validation_Rule.png
+├── Admission_Application_Evaluation_Flow.png
+├── Admission_Status_Email_Template.png
+├── Agentforce_AI_Admission_Assistant.png
+├── Admission_Reports_Folder.png
+├── Admission_Management_Dashboard.png
+├── Admission_Officer_Profile.png
+├── Admission_Manager_Profile.png
+├── Permission_Sets.png
+└── README.md
